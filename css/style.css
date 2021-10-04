@@ -195,7 +195,7 @@ font-family: 'Roboto', sans-serif; */
         .contact {
             background-color: #222;
             background-image: url(../img/Map\ Image.png);
-            background-position: left;
+            background-position: right;
             background-repeat: no-repeat;
         }
         
